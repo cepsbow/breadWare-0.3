@@ -1,0 +1,9 @@
+{
+  "description": "Tools for interacting with a RP2040 device in BOOTSEL mode or with a RP2040 binary",
+  "name": "tool-rp2040tools",
+  "url": "https://github.com/arduino/ArduinoCore-mbed",
+  "version": "1.0.2",
+  "system": [
+    "linux_x86_64"
+  ]
+}

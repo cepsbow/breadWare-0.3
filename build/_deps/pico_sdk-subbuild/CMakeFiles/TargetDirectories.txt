@@ -1,0 +1,3 @@
+/home/cepsbow/pico/breadware/build/_deps/pico_sdk-subbuild/CMakeFiles/rebuild_cache.dir
+/home/cepsbow/pico/breadware/build/_deps/pico_sdk-subbuild/CMakeFiles/edit_cache.dir
+/home/cepsbow/pico/breadware/build/_deps/pico_sdk-subbuild/CMakeFiles/pico_sdk-populate.dir

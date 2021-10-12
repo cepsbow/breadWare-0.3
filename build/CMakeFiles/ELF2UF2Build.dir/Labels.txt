@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/cepsbow/pico/breadware/build/CMakeFiles/ELF2UF2Build
+/home/cepsbow/pico/breadware/build/CMakeFiles/ELF2UF2Build.rule
+/home/cepsbow/pico/breadware/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/cepsbow/pico/breadware/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
